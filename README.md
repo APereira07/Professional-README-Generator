@@ -35,6 +35,5 @@
 * MIT License
 
 ## Questions
-* For additional help or questions about collaboration, please reach out to luis.canahuate16@gmail.com
 
-* Follow me on Github at [canahuate16](http://github.com/canahuate16)
+* Github at [APereira07](http://github.com/APereira07)
